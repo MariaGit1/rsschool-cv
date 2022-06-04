@@ -20,7 +20,6 @@ Adobe Illustrator, Figma
 
 Code Example:
 Kata Training from CODEWARS
-
 function multiply(a, b){
  return a * b
 }
